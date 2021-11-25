@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Tian's homepage
 description: pick up & put down
-markdown: GFM
+url: "https://yantianqiang.github.io/"
+markdown: kramdown
