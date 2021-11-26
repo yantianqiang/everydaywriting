@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 1121-writing
 ---
 
