@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another page
+title: Tian's homepage
 description: This is just another page
 ---
 
