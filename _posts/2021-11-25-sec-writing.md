@@ -4,7 +4,7 @@ title: Tian's homepage
 ---
 
 
-![east_harbor](assets/images/east_harbor.jpg)
+![east_harbor](/assets/images/east_harbor.jpg)
 
 
 
