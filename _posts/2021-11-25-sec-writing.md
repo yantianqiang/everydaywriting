@@ -2,7 +2,6 @@
 layout: default
 title: Tian's homepage
 ---
-
 ![east_harbor](https://yantianqiang.github.io/assets/images/east_harbor.jpg)
 
 ## 被毁掉的两片海
