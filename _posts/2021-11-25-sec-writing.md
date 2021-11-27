@@ -4,7 +4,7 @@ title: Tian's homepage
 ---
 
 
-![east_harbor](https://github.com/yantianqiang/yantianqiang.github.io/blob/main/assets/images/east_harbor.jpg)
+![east_harbor](https://github.com/yantianqiang/yantianqiang.github.io/blob/main/assets/images/east_harbor.jpg){:height="50%" width="50%"}
 
 
 
