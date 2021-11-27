@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## **Hang on for a sec...**
-![sealing_wax](https://yantianqiang.github.io/assets/images/sealing_wax.jpg)
+![sealing_wax](https://yantianqiang.github.io/assets/images/sealing_wax.JPG)
 
 
 [another page](another-page.md)
